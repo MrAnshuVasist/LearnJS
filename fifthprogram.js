@@ -21,3 +21,9 @@ let userEmail1 = undefined; // also undefined
 const id = Symbol('123')
 const id1 = Symbol('123')
 console.log(id === id1) // false
+
+const hero = ["Hanuman JI", "Ram JI"]
+let obj = {
+    name: "Anshu",
+    age: 21,
+}
