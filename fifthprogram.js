@@ -9,7 +9,7 @@
         // Non primitive -> reference type
         
                 // Array, Objects, Functions
-                // Jin ka sida reference diya jata hai
+                // Jin ka sida reference diya jata hai or in sab ka data type bhi object hota h
 
 
 let userEmail; //undefined
